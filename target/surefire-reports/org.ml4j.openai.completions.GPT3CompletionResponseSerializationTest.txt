@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: org.ml4j.openai.completions.GPT3CompletionResponseSerializationTest
--------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.223 s - in org.ml4j.openai.completions.GPT3CompletionResponseSerializationTest
